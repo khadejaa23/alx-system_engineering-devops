@@ -1,2 +1,2 @@
 #!/bin/bash
-perl -Lne 'print if $. %2 == 1'
+perL -Lne 'print if $. %2 == 1'
