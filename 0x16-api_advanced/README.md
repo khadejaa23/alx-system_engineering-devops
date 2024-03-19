@@ -51,4 +51,4 @@
 <li>To make life easier, ‘java.’ or ‘java!’ or ‘java_’ should not count as ‘java’</li>
 <li>If no posts match or the subreddit is invalid, print a newline.</li>
 <li>NOTE: Invalid subreddits may return a redirect to search results. Ensure that you are NOT following redirects.</li>
-</ul><p>Your code will NOT pass if you are using a loop and not recursively calling the function! This /can/ be done with a loop but the point is to use a recursive function. :)</p>
+</ul><p>Your code will NOT pass if you are using a loop and not recursively calling the function! This /can/ be done with a loop but the point is to use a recursive function. </p>
